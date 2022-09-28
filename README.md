@@ -16,7 +16,7 @@
  - 電子郵件隱寫(Email Steganography)
 - 資料來源
   - [【Day21】隱寫技術 Steganography](https://ithelp.ithome.com.tw/articles/10278407)
-  - [Day8: [Forensic] Steganography](https://ithelp.ithome.com.tw/articles/10219759)
+  - [[Day8: [Forensic] Steganography](https://ithelp.ithome.com.tw/articles/10219759)](https://blog.trendmicro.com.tw/?p=12510)
   - [The Ancient Practice of Steganography](https://www.comptia.org/blog/what-is-steganography)
   - [Steganography@WIKI](https://en.wikipedia.org/wiki/Steganography)
 
