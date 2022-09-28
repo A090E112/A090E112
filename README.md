@@ -23,6 +23,8 @@
 # 第二份作業: robots.txt的說明
 - 完成CTF  Web101|web-2: Easy_Robots.txt解題
 - 完成 google網站的robots.txt
+- ![image](https://user-images.githubusercontent.com/114581650/192776362-f11c09da-ac0e-483c-b45f-94ede07c4096.png)
+
 - 資料來源
   - [robots.txt@WIKI](https://zh.wikipedia.org/zh-tw/Robots.txt) 
   - [Google 如何解讀 robots.txt 規格](https://developers.google.com/search/docs/advanced/robots/robots_txt?hl=zh-tw)
