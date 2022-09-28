@@ -19,3 +19,10 @@
   - [Day8: [Forensic] Steganography](https://ithelp.ithome.com.tw/articles/10219759)
   - [The Ancient Practice of Steganography](https://www.comptia.org/blog/what-is-steganography)
   - [Steganography@WIKI](https://en.wikipedia.org/wiki/Steganography)
+
+# 第二份作業: robots.txt的說明
+- 完成CTF  Web101|web-2: Easy_Robots.txt解題
+- 完成 google網站的robots.txt
+- 資料來源
+  - [robots.txt@WIKI](https://zh.wikipedia.org/zh-tw/Robots.txt) 
+  - [Google 如何解讀 robots.txt 規格](https://developers.google.com/search/docs/advanced/robots/robots_txt?hl=zh-tw)
